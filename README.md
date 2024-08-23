@@ -2,7 +2,7 @@
 Análisis de mercado de apertura tienda física
 
 # Codigos Postales y Municipios Asociados
-Fuente: Callejero del Censo Electoral (INE)
+ Fuente: Callejero del Censo Electoral (INE)
 URL: https://github.com/inigoflores/ds-codigos-postales-ine-es?tab=readme-ov-file 
 Tipo: Texto de ancho fijo comprimido (.zip)
 Datos procesados: /data/codigos_postales_municipios.csv
